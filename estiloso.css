@@ -1,0 +1,67 @@
+body {
+    color: rgb(0, 0, 0);
+    background: rgb(163, 163, 163);
+    margin: 0px;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    margin-bottom: 100px;
+}
+/*  Isso é entendiante */
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(0,0,0);
+}
+
+.pinto {
+    background-color: rgb(255, 233, 233);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}  
+
+.fezes{
+    margin-right: 5%;
+} 
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
+h2 {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
+.fezes_de_musica {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+
+}
+/*  Isso é muito entendiante e ele faz parecer a coisa mais diveritda do mundo!!! */
+.piroca {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.fezes_de_musica img {
+    opacity: 0.5;
+
+}
+.fezes_de_musica img:hover {
+    opacity: 1;
+    border: 1px solid forestgreen;
+
+}
+
+.piroca h2 {
+    color:blue;
+}
